@@ -4,14 +4,19 @@
 
 1. Clone the repository.
 2. Install the required Python packages:
-   pip install instabot
+
+### `pip install instabot`
+
+- For linux users, create a virtual enviorement before installing pip packages.
+
 3. Update the script with your Instagram credentials.
    (Make sure if it fails, onces check you account and do verify the login was you. This is essential and dont change your IP while running script.)
 
 ## Usage
 
 1. Run the script:
-   python index.py
+
+### `python index.js`
 
 2. Input the POST URL and MESSAGE to be sent.
 
